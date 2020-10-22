@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋, I'm Kieran Vieira
 
-<!--
-**KieranVieira/KieranVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌊 I grew up in Niagara Falls.
+- 💼 I'm currently working as a Software Engineer in Toronto
+- ⚛️ I love React (including React Native), Typescript, and Node.js
+- 🚀 Was destined to improve user experience
+- 🌱 I’m currently learning C++ and OpenGL
+- 💬 Ask me about my projects/Lambda School
 
-Here are some ideas to get you started:
+## 📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✉️ [Email](mailto:hello@kieranvieira.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kieran-vieira/)
+- 🌐 [Website](https://www.kieranvieira.com/)
