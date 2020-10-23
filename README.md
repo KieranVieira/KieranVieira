@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Kieran Vieira
 
-- 🌊 I grew up in Niagara Falls.
-- 💼 I'm currently working as a Software Engineer in Toronto
+- 🌊 I grew up in Niagara Falls, Ontario
+- 💼 I'm currently working as a Software Engineer in Toronto, Ontario
 - ⚛️ I love React (including React Native), Typescript, and Node.js
 - 🚀 Was destined to improve user experience
 - 🌱 I’m currently learning C++ and OpenGL
