@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Kieran Vieira
+## Hi 👋, I'm Kieran Vieira
 
 - 🌊 I grew up in Niagara Falls, Ontario
 - 💼 I'm currently working as a Software Engineer in Toronto, Ontario
