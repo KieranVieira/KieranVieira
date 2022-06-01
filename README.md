@@ -12,3 +12,4 @@
 - ✉️ [Email](mailto:hello@kieranvieira.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kieran-vieira/)
 - 🌐 [Website](https://www.kieranvieira.com/)
+- 🐦 [Twitter](https://twitter.com/kieranvieira)
